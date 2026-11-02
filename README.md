@@ -16,6 +16,8 @@ Guides are organized under the same service categories as codesoltech.com, so ev
 
 ### Development
 
+- [Custom Web App vs Off-the-Shelf Software: How a Small Business Decides](custom-web-app-vs-off-the-shelf-software.md)
+
 ### CRM Development
 
 ### Cloud Infrastructure
