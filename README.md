@@ -20,6 +20,8 @@ Guides are organized under the same service categories as codesoltech.com, so ev
 
 ### CRM Development
 
+- [CRM Pipelines That Match How You Actually Sell, Not a Generic Template](crm-pipelines-match-how-you-actually-sell.md)
+
 ### Cloud Infrastructure
 
 ### Ecommerce
