@@ -23,6 +23,7 @@ Guides are organized under the same service categories as codesoltech.com, so ev
 - [CRM Pipelines That Match How You Actually Sell, Not a Generic Template](crm-pipelines-match-how-you-actually-sell.md)
 
 ### Cloud Infrastructure
+- [Cloud Setup for a Small Business: What You Actually Need First](cloud-setup-small-business-what-you-actually-need-first.md)
 
 ### Ecommerce
 
