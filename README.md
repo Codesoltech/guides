@@ -14,6 +14,7 @@ Guides are organized under the same service categories as codesoltech.com, so ev
 ### Web Design
 
 - [What a Service Business Homepage Must Answer in 10 Seconds](what-service-business-homepage-must-answer-10-seconds.md)
+- [Service Pages That Convert: Structure, Proof, and a Clear Next Step](service-pages-that-convert-structure-proof-clear-next-step.md)
 
 ### Development
 
