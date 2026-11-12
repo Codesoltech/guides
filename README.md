@@ -10,6 +10,7 @@ Guides are organized under the same service categories as codesoltech.com, so ev
 
 - [Appointment Reminder Automation for Service Businesses: Fewer No-Shows Without More Phone Tag](appointment-reminder-automation-service-businesses.md)
 - [Lead Follow-Up Automation: How Small Teams Stop Losing Enquiries After First Contact](lead-follow-up-automation-small-teams-stop-losing-enquiries.md)
+- [Invoice Chasing Without Awkward Phone Calls: A Payment Reminder Workflow](invoice-chasing-without-awkward-phone-calls-payment-reminder-workflow.md)
 
 ### Web Design
 
