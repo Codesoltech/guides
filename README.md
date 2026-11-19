@@ -28,6 +28,7 @@ Guides are organized under the same service categories as codesoltech.com, so ev
 
 - [CRM Pipelines That Match How You Actually Sell, Not a Generic Template](crm-pipelines-match-how-you-actually-sell.md)
 - [Follow-Up Sequences That Do Not Feel Like Spam](follow-up-sequences-that-do-not-feel-like-spam.md)
+- [Keeping Customer History in One Timeline](keeping-customer-history-in-one-timeline.md)
 
 ### Cloud Infrastructure
 - [Cloud Setup for a Small Business: What You Actually Need First](cloud-setup-small-business-what-you-actually-need-first.md)
