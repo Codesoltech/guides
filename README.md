@@ -33,6 +33,7 @@ Guides are organized under the same service categories as codesoltech.com, so ev
 ### Cloud Infrastructure
 - [Cloud Setup for a Small Business: What You Actually Need First](cloud-setup-small-business-what-you-actually-need-first.md)
 - [Moving Files and Tools to the Cloud Without Downtime](moving-files-and-tools-to-the-cloud-without-downtime.md)
+- [Google Workspace vs Microsoft 365 for Local Teams, Compared Practically](google-workspace-vs-microsoft-365-local-teams-compared-practically.md)
 
 ### Ecommerce
 
