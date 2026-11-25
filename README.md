@@ -39,5 +39,6 @@ Guides are organized under the same service categories as codesoltech.com, so ev
 
 - [Shopify vs WooCommerce for a Local Retailer: How to Choose](shopify-vs-woocommerce-local-retailer-how-to-choose.md)
 - [Product Pages That Sell: Photos, Descriptions, and Trust](product-pages-that-sell-photos-descriptions-and-trust.md)
+- [Shipping and Delivery Options Customers Actually Want](shipping-and-delivery-options-customers-actually-want.md)
 
 More guides are added regularly. For custom software, CRM, and automation work, visit [CodeSol Technologies](https://www.codesoltech.com/).
